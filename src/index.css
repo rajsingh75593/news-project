@@ -1,0 +1,27 @@
+.navbackground{
+  background-color:#4c0bce;
+  color: white;
+}
+.background{
+  background-color: #3972e2;
+  color: white;
+}
+.background:hover{
+  background-color: #0c54e5;
+  color: white;
+}
+.card-title{
+  height: 90px;
+  font-size: 15px;
+  font-weight: bold;
+  text-align: justify;
+
+}
+.date{
+  font-size: 12px;
+}
+.card-text{
+  height: 200px;
+  font-size: 13px;
+  text-align: justify;
+}
